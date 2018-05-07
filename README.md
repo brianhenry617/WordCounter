@@ -1,29 +1,30 @@
-# WordCounter
+### _WordCounter_
+### Version 1.0
+#### By: Brian Henry
+#### Date: April 27th 2018
 
-#### _WordCounter, 04/27/2018_
+##### Description
+* This is a C# program that counts words from user input.
 
-### By _**Brian Henry**_
+##### Setup/Installation Requirements
+* Clone or download the repository
+* Run dotnet run in the terminal
 
-## Description
-This is a word counter.
-
-## SetUp/Installation
-* _Clone repository from GitHub.
-* _Go to terminal_
-* _Type in dotnet run_
-* _Go to the link that terminal says to go to_
-
-## Technology Used
-* csHTML
+##### Technologies Used
+* .NET
 * C#
-* .Net
+* csHTML
 
-## Known Bugs
-* _No Known Bugs_
+## Specifications
+* Counts words
+* Tests
 
-## Specs
-* _Counts words"_
+##### Known Bugs
+_No Known Buges_
+
+#### Support and contact details
+_Brian Henry: 94brianhenry@gmail.com_
 
 ### License
-Copyright (c) 2018 Brian Henry.
+* Copyright (c) 2018 Brian Henry.
 This software is licensed under the GNU GENERAL PUBLIC LICENSE.
